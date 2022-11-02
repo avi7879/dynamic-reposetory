@@ -1,16 +1,15 @@
-print("hello avinash")
-print("\t't ********application********")
+print("\t'leave application")
 
 a=('''To
 The Principle 
-school
+college
 address
 date:<|date|>
 subject:- Application for leave
 respected sir/madam,
 Respectfully, I am here to inform you that, 
-I am suffering from fever since last night, 
-The doctor had advised me to take rest for 
+I am suffering from back pain since last night, 
+The doctor had suggestion me to take rest for 
 ____ days.
 \t Hence, kindely grant me leave for____days.
 I shall be thankful to you
